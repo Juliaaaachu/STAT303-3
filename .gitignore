@@ -1,3 +1,4 @@
 # exclude everything
 data/*
 .idea/misc.xml
+.DS_Store
